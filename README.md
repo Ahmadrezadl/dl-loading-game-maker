@@ -1,7 +1,7 @@
 
 # DL_Loading Library
 
-The DL_Loading library provides GameMaker Studio 2 developers with a versatile and customizable loading screen feature. This library enables the customization of the loading screen's background color, opacity, sprite, and animation speed, making the loading process visually appealing and consistent with the game's theme.
+The DL_Loading library provides [GameMaker](https://gamemaker.io) developers with a versatile and customizable loading screen feature. This library enables the customization of the loading screen's background color, opacity, sprite, and animation speed, making the loading process visually appealing and consistent with the game's theme.
 
 ## Features
 
