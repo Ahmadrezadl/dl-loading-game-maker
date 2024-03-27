@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"DL_Loading_Sample","order":12,"path":"folders/DL_Loading_Sample.yy",},
+    {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"note_documentation","order":3,"path":"notes/note_documentation/note_documentation.yy",},
+    {"name":"obj_clickable_button_in_loading","order":2,"path":"objects/obj_clickable_button_in_loading/obj_clickable_button_in_loading.yy",},
+    {"name":"obj_not_clickable_button_in_loading","order":3,"path":"objects/obj_not_clickable_button_in_loading/obj_not_clickable_button_in_loading.yy",},
+    {"name":"obj_test","order":1,"path":"objects/obj_test/obj_test.yy",},
+    {"name":"scr_loading","order":1,"path":"scripts/scr_loading/scr_loading.yy",},
+    {"name":"spr_default_loading","order":2,"path":"sprites/spr_default_loading/spr_default_loading.yy",},
+    {"name":"spr_sample_button","order":4,"path":"sprites/spr_sample_button/spr_sample_button.yy",},
+  ],
+}

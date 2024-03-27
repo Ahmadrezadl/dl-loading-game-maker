@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_loading",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_loading",
+  "parent":{
+    "name":"DL_Loading",
+    "path":"folders/Extensions/DL_Loading.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"note_documentation",
+  "name":"note_documentation",
+  "parent":{
+    "name":"DL_Loading",
+    "path":"folders/Extensions/DL_Loading.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,32 @@
+Welcome to the DL_Loading library! This folder contains the key scripts and resources you need to add a customizable loading screen to your GameMaker projects. Below you'll find a brief overview of each component and their functions:
+
+Contents:
+
+scr_loading: Main script file with all functions to setup and control the loading screen.
+spr_default_loading: Default sprite for loading animation. Feel free to customize this sprite to fit your game's theme.
+obj_loading: Object responsible for drawing the loading screen with the configurations set up through scr_loading.
+Function Documentation:
+
+set_loading_background_color(color): Sets the loading screen's background color.
+color: The color to set as the background.
+
+set_loading_background_opacity(opacity): Sets the opacity for the loading screen's background.
+opacity: A value between 0 (transparent) and 1 (opaque) for background opacity.
+
+set_loading_timeout(seconds): Sets a timeout to automatically hide the loading screen. Set to -1 for no timeout.
+seconds: Number of seconds before the loading screen hides.
+
+set_loading_animation_speed(FPS): Sets the speed of the loading animation in frames per second.
+FPS: Animation speed in frames per second.
+
+set_loading_sprite(sprite): Chooses the sprite for the loading animation.
+sprite: The sprite resource for the loading animation.
+
+set_loading_sprite_scale(scale): Sets the scale for the loading sprite.
+scale: Scale factor for the loading sprite.
+
+show_loading(): Shows the loading screen according to the current configurations.
+No parameters.
+
+hide_loading(): Hides the loading screen.
+No parameters.
