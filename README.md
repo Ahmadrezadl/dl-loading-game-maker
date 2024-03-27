@@ -5,7 +5,7 @@ The DL_Loading library provides [GameMaker](https://gamemaker.io) developers wit
 
 ## Features
 
-Customize loading screen with sample project
+Customizable loading screen (+ sample project)
 
 ![Gif](https://github.com/Ahmadrezadl/dl-loading-game-maker/blob/main/features.gif)
 
